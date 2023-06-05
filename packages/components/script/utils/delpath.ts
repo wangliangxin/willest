@@ -1,11 +1,3 @@
-/*
- * @Autor: wangliangxin3
- * @Email: wangliangxin3@jd.com
- * @Description: 
- * @Date: 2023-06-02 18:24:24
- * @LastEditors: wangliangxin3
- * @LastEditTime: 2023-06-02 18:24:32
- */
 import fs from "fs";
 import { resolve } from "path";
 import { pkgPath } from "./paths";

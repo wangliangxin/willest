@@ -1,11 +1,3 @@
-/*
- * @Autor: wangliangxin3
- * @Email: wangliangxin3@jd.com
- * @Description:
- * @Date: 2023-06-05 16:35:50
- * @LastEditors: wangliangxin3
- * @LastEditTime: 2023-06-05 16:36:00
- */
 module.exports = {
   // 注册 stylelint 的 prettier 插件
   plugins: ['stylelint-prettier'],

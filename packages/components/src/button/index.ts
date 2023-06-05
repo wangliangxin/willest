@@ -1,12 +1,3 @@
-/*
- * @Autor: wangliangxin3
- * @Email: wangliangxin3@jd.com
- * @Description: 
- * @Date: 2023-06-02 16:05:59
- * @LastEditors: wangliangxin3
- * @LastEditTime: 2023-06-02 16:45:58
- */
-
 import _Button from "./button.vue";
 import type { App, Plugin } from "vue";
 

@@ -1,11 +1,3 @@
-/*
- * @Autor: wangliangxin3
- * @Email: wangliangxin3@jd.com
- * @Description: 
- * @Date: 2023-06-05 15:32:40
- * @LastEditors: wangliangxin3
- * @LastEditTime: 2023-06-05 15:32:51
- */
 import download from 'download-git-repo';
 import chalk from 'chalk';
 import ora from 'ora';

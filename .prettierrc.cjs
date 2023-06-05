@@ -1,11 +1,3 @@
-/*
- * @Autor: wangliangxin3
- * @Email: wangliangxin3@jd.com
- * @Description:
- * @Date: 2023-06-05 16:31:56
- * @LastEditors: wangliangxin3
- * @LastEditTime: 2023-06-05 16:32:08
- */
 module.exports = {
   printWidth: 80, //一行的字符数，如果超过会进行换行，默认为80
   tabWidth: 2, // 一个 tab 代表几个空格数，默认为 2 个
