@@ -4,7 +4,7 @@
  * @Description: 
  * @Date: 2023-06-02 16:05:20
  * @LastEditors: wangliangxin3
- * @LastEditTime: 2023-06-02 17:08:23
+ * @LastEditTime: 2023-06-05 16:33:59
 -->
 <template>
   <button class="wl-button" :class="buttonStyle"><slot></slot></button>
@@ -21,7 +21,7 @@ type ButtonProps = {
   type? :string
 }
 
-const buttonProps =  defineProps<ButtonProps>()
+const buttonProps = defineProps<ButtonProps>()
 
 const buttonStyle = computed(()=> {return { [`wl-button--${buttonProps.type}`]: buttonProps.type }})
 
